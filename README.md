@@ -44,3 +44,11 @@ A seguir temos um desafio para entender um pouco melhor sobre seu conhecimento. 
 * Como os outros produtos da loja um livro digital deverá ter as descrições e características do produto;
 
 * Não é possível adicionar produtos físicos e digitais no mesmo carrinho.
+
+
+
+**Obs: por Andreza Santos**
+* O CT002, Apresenta uma divergencia, o caso de teste se refere a compra de um livro digital, 
+a escrita do caso aparentemente esta incompleta, pois não apresenta o passo para conclusão da compra do livro digital.
+
+* Na execução do CT002, Foi verificado que ao buscar e selecionar um livro físico o site não apresenta opcão de compra do mesmo produto em formato digital 
